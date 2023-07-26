@@ -2,9 +2,11 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div>
-      footer
-    </div>
+    <footer>
+      <p>
+        Made with ❤️ by <a href="https://github.com/himuuuuuuuuu" target='_blank'> <strong>Himanshu Jain</strong> </a> in 🇮🇳
+      </p>
+    </footer>
   )
 }
 

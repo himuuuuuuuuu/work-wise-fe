@@ -4,8 +4,11 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
-
-body{
+body {
   background-color: #000;
   color: white;
+}
+a {
+  color: white;
+  text-decoration: none;
 }
